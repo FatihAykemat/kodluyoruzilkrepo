@@ -6,18 +6,18 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 ![](img/git.png)
 
 # Installation
-'''
+```
 print("git clone https://github.com/cengizcmataraci/kodluyoruzilkrepo.git
 ")
-'''
+```
 
 # Usage
 
 Projeyi cloneladıktan sonra Visual Code programında açınız.
-'''
+```
 print("cd kodluyoruzilkrepo
 code .")
-'''
+```
 
 # Contributing
 
