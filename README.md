@@ -3,20 +3,20 @@
 [KODLUYORUZ](https://www.kodluyoruz.org/)
 
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
-![](img/git.png)
+![](https://github.com/FatihAykemat/kodluyoruzilkrepo/blob/main/img/git.PNG?raw=true)
 
 # Installation
 ```
-print("git clone https://github.com/cengizcmataraci/kodluyoruzilkrepo.git
-")
+git clone https://github.com/cengizcmataraci/kodluyoruzilkrepo.git
+
 ```
 
 # Usage
 
 Projeyi cloneladıktan sonra Visual Code programında açınız.
 ```
-print("cd kodluyoruzilkrepo
-code .")
+cd kodluyoruzilkrepo
+code .
 ```
 
 # Contributing
